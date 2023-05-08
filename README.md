@@ -1,2 +1,2 @@
-# opiskelija-l-yt-minen
+# opiskelijan löytäminen
 web-sovelluskehityskurssin tehtäviä
